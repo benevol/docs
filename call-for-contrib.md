@@ -1,12 +1,13 @@
 
 
-### BENEVOL 2014: 
+### BENEVOL 2014
 
 
 The BENEVOL software evolution research seminar aims to gather junior
 and senior researchers from Belgium, the Netherlands, and neighboring
 countries to meet and to discuss new ideas, important problems and
 obtained research results in the field of software evolution.
+
 Prospective speakers (junior or senior researchers or practitioners
 active in the field) are invited to submit an extended abstract (max.
 2 A4 pages) of a talk. Based on these extended abstracts, the
@@ -37,8 +38,7 @@ Important dates:
 
 Extended abstracts (max. 2 A4 pages) should be submitted using EasyChair: 
 
--
-[https://easychair.org/conferences/?conf=benevol2014](https://easychair.org/conferences/?conf=benevol2014). 
+> [https://easychair.org/conferences/?conf=benevol2014](https://easychair.org/conferences/?conf=benevol2014). 
 
 Proceedings will be published as a CWI technical report.
 Participants can still submit their work to other scientific venues.
@@ -53,4 +53,6 @@ Our kind sponsors enable free registration for the event:
 
 Please refer to our website [http://benevol.cwi.nl](http://benevol.cwi.nl) for more information on 
 submissions and the event.
+
+Feel free to contact the organizers [Magiel Bruntink](mailto:m.bruntink@uva.nl) and [Tijs van  der Storm](mailto:storm@cwi.nl).
 
